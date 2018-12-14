@@ -1,0 +1,51 @@
+09-07-2018
+----------------------------------------------------------------------
+
+Table - setting_community  -> change the id to auto increment
+
+Added new jquery plugin --> senias/admin/assests/js/jquery_sort.js
+
+Test server : https://beta.ias.academy
+
+username - admin
+password - s*pwHeKnx7TUsa4J
+
+email : contact@seniasacademy.in 
+Pwd   :	$temp123$
+
+ELECT * FROM student_perfomance LEFT JOIN manage_test on manage_test.id = student_perfomance.test_id WHERE manage_test.id IS NULL
+
+manikandantvr
+
+UPDATE manage_user SET board= '1,2' WHERE board=0
+
+
+
+new email 
+username	: seniasacademypremium@gmail.com
+password 	: $temp123$
+
+
+ccavenue
+
+CCAvenue Account Login ID : con_198136
+Password : S3n1@smdu
+
+
+merchant_id:    198136
+URL:https://ias.academy
+access_code:    AVVZ81FK64AY25ZVYA
+Working key:    F8718A7AFC5D9816630C745176B59E4D        
+
+
+ 
+URL:http://www.localhost:9050
+access_code:    AVOV81FK67BB40VOBB
+Working key:    5A13902E7570EA7A609D93E511CEDB77        
+
+
+ 
+URL:https://beta.ias.academy
+access_code:    AVDZ02FK37BE30ZDEB
+Working key:    A1826136AEF9A92AC3AC91641E1736BB
+
